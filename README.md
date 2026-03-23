@@ -2,7 +2,7 @@
 🎬 Automated TikTok video generation pipeline powered by AI
 
 ## Description
-TikTok Forge is an enterprise-grade video automation framework that transforms text scripts into engaging TikTok videos. Built with Remotion, OpenAI, and n8n, it streamlines the entire video production workflow from script to social media upload.
+TikTok Forge is an enterprise-grade video automation framework that transforms text scripts into engaging TikTok videos. Built with Remotion, OpenAI, and n8n, it streamlines the entire video production workflow from script to social media upload. And also operates as an assistant agent for Tiktok studio also for Ad settings Creator Rewards Program promotional content also assist with followers and viral and trendy hashtags for growth and followers. and also creates viral videos with catchy slogan and he also works for xcotic Dripz and Kustom Dripz 
 
 ## Key Features
 - 🤖 AI-powered script analysis and scene generation
